@@ -1,0 +1,8 @@
+tu-repositorio/  
+├── assets/           # Imágenes, fuentes, etc.  
+├── src/              # Código fuente principal  
+│   ├── css/  
+│   ├── js/  
+│   └── index.html  
+├── LICENSE           # Archivo de licencia  
+└── README.md         # Este archivo  
