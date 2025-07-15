@@ -168,3 +168,7 @@ If you want to contact with me you can reach me at [Twitter](https://www.twitter
 ### License
 
 [MIT](https://choosealicense.com/licenses/mit/)
+
+### Archivo
+
+[Ver archivo TXT](https://github.com/tu-usuario/tu-repositorio/blob/main/archivo.txt)
