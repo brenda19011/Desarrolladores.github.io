@@ -13,7 +13,7 @@
 
  Guardianes Seguros es un sitio web totalmente adaptable para una agencia de seguridad privada, <br />Responsive for all devices, build using HTML, CSS, JavaScript, Boostrap, GitHub.
 
-  <a href="https://github.com/brenda19011/Desarrollador.github.io.git/">![Guardianes SegurosDesktop Demo](./readme-images/1.png "Desktop Demo")
+  <a href="https://github.com/brenda19011/Desarrolladores.github.io.git">![Guardianes SegurosDesktop Demo](./readme-images/1.png "Desktop Demo")
 
 </div>
 
@@ -96,8 +96,8 @@ Pie de página con enlaces legales y redes sociales.
 
 
 
-
-Estructura del proyecto
+<h2 style="color: black; font-weight: bold;">Estructura del proyecto</h2>
+-
 guardianes-seguros/
 │
 ├── index.html                 ← Página principal
@@ -152,13 +152,13 @@ To run **Guardianes Seguros** locally, run this command on your git bash:
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/brenda19011/Desarrollador.github.io.git
+sudo git clone https://github.com/brenda19011/Desarrolladores.github.io.git
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/brenda19011/Desarrollador.github.io.git
+git clone https://github.com/brenda19011/Desarrolladores.github.io.git
 ```
 
 ### Contact
@@ -171,4 +171,4 @@ If you want to contact with me you can reach me at [Twitter](https://www.twitter
 
 ### Archivo
 
-[Ver archivo TXT](https://github.com/tu-usuario/tu-repositorio/blob/main/archivo.txt)
+[Ver archivo TXT](https://github.com/brenda19011/Desarrolladores.github.io/blob/main/deepseek_plaintext_20250709_1b3db5.txt)
