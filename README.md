@@ -18,7 +18,7 @@
 </div>
 
 <br />
--**Propósito**
+- **Propósito**
 
 <p align="justify">
 En <strong>Guardianes Seguros</strong>, nuestro propósito es proteger la integridad física, patrimonial y emocional de las personas, empresas y comunidades, ofreciendo soluciones integrales de seguridad privada con profesionalismo, ética y compromiso. Nos guiamos por la firme convicción de generar confianza, tranquilidad y respaldo a nuestros clientes, mediante servicios preventivos y correctivos de alta calidad, tecnología avanzada y personal capacitado.
