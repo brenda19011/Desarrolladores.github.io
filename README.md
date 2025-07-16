@@ -124,7 +124,7 @@ sudo git clone https://github.com/brenda19011/Desarrolladores.github.io.git
 
 -**bash**
 git clone https://github.com/brenda19011/Desarrolladores.github.io.git
-```
+
 
 -**Contact**
 
