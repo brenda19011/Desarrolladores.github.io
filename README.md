@@ -26,49 +26,49 @@ En <strong>Guardianes Seguros</strong>, nuestro propósito es proteger la integr
 
 
 -**Características principales**
--**I.-Diseño responsivo (responsive design)**
--Adaptable a todos los dispositivos (móviles, tabletas, computadoras).
--Layout flexible con media queries.
--Uso de sistemas de rejilla (grid/flexbox) para orden visual eficiente.
+-**I.-Diseño responsivo (responsive design)**<br>
+-Adaptable a todos los dispositivos (móviles, tabletas, computadoras).<br>
+-Layout flexible con media queries.<br>
+-Uso de sistemas de rejilla (grid/flexbox) para orden visual eficiente.<br>
 
--**II.-Optimización SEO (Search Engine Optimization)**
--Uso correcto de etiquetas HTML semánticas (<header>, <section>, <article>, <footer>).
--Metaetiquetas optimizadas (<meta name="description">, <meta name="keywords">, <title>).
--Contenido estructurado para indexación efectiva en motores de búsqueda.
--Carga rápida y reducción de recursos innecesarios (minificación de CSS/JS).
+-**II.-Optimización SEO (Search Engine Optimization)**<br>
+-Uso correcto de etiquetas HTML semánticas (<header>, <section>, <article>, <footer>).<br>
+-Metaetiquetas optimizadas (<meta name="description">, <meta name="keywords">, <title>).<br>
+-Contenido estructurado para indexación efectiva en motores de búsqueda.<br>
+-Carga rápida y reducción de recursos innecesarios (minificación de CSS/JS).<br>
 
--**III.-URLs amigables (Friendly URLs)**
--Rutas limpias y legibles para el usuario y motores de búsqueda (ej: /servicios, /nosotros, /contacto).
--Sin caracteres especiales, parámetros largos ni extensiones innecesarias.
+-**III.-URLs amigables (Friendly URLs)**<br>
+-Rutas limpias y legibles para el usuario y motores de búsqueda (ej: /servicios, /nosotros, /contacto).<br>
+-Sin caracteres especiales, parámetros largos ni extensiones innecesarias.<br>
 
--**IV.-Estilos UI/UX modernos**
--Paleta de colores institucional (ej. negro, dorado, blanco).
--Tipografía clara, profesional y accesible.
--Botones llamativos y bien posicionados con efectos de hover.
--Uso de iconografía y animaciones suaves para mejorar la experiencia de navegación.
--Jerarquía visual con subtítulos, bloques de contenido y tarjetas informativas.
+-**IV.-Estilos UI/UX modernos**<br>
+-Paleta de colores institucional (ej. negro, dorado, blanco).<br>
+-Tipografía clara, profesional y accesible.<br>
+-Botones llamativos y bien posicionados con efectos de hover.<br>
+-Uso de iconografía y animaciones suaves para mejorar la experiencia de navegación.<br>
+-Jerarquía visual con subtítulos, bloques de contenido y tarjetas informativas.<br>
 
--**V.-Componentes reutilizables (UI reutilizable)**
--Menús, botones, formularios y tarjetas modulares reutilizables.
--Estilos centralizados con variables CSS (por ejemplo: --gold-crayola, --weight-bold).
--Separación clara entre estructura HTML, estilos CSS y comportamiento JS.
+-**V.-Componentes reutilizables (UI reutilizable)**<br>
+-Menús, botones, formularios y tarjetas modulares reutilizables.<br>
+-Estilos centralizados con variables CSS (por ejemplo: --gold-crayola, --weight-bold).<br>
+-Separación clara entre estructura HTML, estilos CSS y comportamiento JS.<br>
 
--**VI.-Accesibilidad (A11Y)**
--Texto con suficiente contraste de color.
--Navegación por teclado y lectores de pantalla.
--Atributos alt en imágenes y roles en componentes interactivos.
+-**VI.-Accesibilidad (A11Y)**<br>
+-Texto con suficiente contraste de color.<br>
+-Navegación por teclado y lectores de pantalla.<br>
+-Atributos alt en imágenes y roles en componentes interactivos.<br>
 
--**VII.-Integración con herramientas externas**
--Botón de contacto vía WhatsApp.
--Mapa de ubicación integrado (Google Maps o similar).
--Formularios de contacto funcionales con validación.
+-**VII.-Integración con herramientas externas**<br>
+-Botón de contacto vía WhatsApp.<br>
+-Mapa de ubicación integrado (Google Maps o similar).<br>
+-Formularios de contacto funcionales con validación.<br>
 
--**VIII.-Seguridad y confianza**
--licencia
--Políticas de privacidad y términos de uso visibles.
--Pie de página con enlaces legales y redes sociales.
+-**VIII.-Seguridad y confianza**<br>
+-licencia<br>
+-Políticas de privacidad y términos de uso visibles.<br>
+-Pie de página con enlaces legales y redes sociales.<br>
 
--**Tecnologías Utilizadas**
+-**Tecnologías Utilizadas**<br>
 - **HTML**  
   - Estructura semántica del sitio
 
@@ -121,7 +121,7 @@ sudo git clone https://github.com/brenda19011/Desarrolladores.github.io.git
 
 -**Windows**
 
-```bash
+-**bash**
 git clone https://github.com/brenda19011/Desarrolladores.github.io.git
 ```
 
