@@ -25,50 +25,50 @@ En <strong>Guardianes Seguros</strong>, nuestro propósito es proteger la integr
 </p>
 
 
-<h2 style="color: black; font-weight: bold;">Características principales </h2>
-<h2 style="color: black; font-weight: bold;">I.-Diseño responsivo (responsive design) </h2>
+-**Características principales**
+-**I.-Diseño responsivo (responsive design)**
 -Adaptable a todos los dispositivos (móviles, tabletas, computadoras).
 -Layout flexible con media queries.
 -Uso de sistemas de rejilla (grid/flexbox) para orden visual eficiente.
 
-<h2 style="color: black; font-weight: bold;">II.-Optimización SEO (Search Engine Optimization) </h2>
+-**II.-Optimización SEO (Search Engine Optimization)**
 -Uso correcto de etiquetas HTML semánticas (<header>, <section>, <article>, <footer>).
 -Metaetiquetas optimizadas (<meta name="description">, <meta name="keywords">, <title>).
 -Contenido estructurado para indexación efectiva en motores de búsqueda.
 -Carga rápida y reducción de recursos innecesarios (minificación de CSS/JS).
 
-<h2 style="color: black; font-weight: bold;">III.-URLs amigables (Friendly URLs) </h2>
+-**III.-URLs amigables (Friendly URLs)**
 -Rutas limpias y legibles para el usuario y motores de búsqueda (ej: /servicios, /nosotros, /contacto).
 -Sin caracteres especiales, parámetros largos ni extensiones innecesarias.
 
-<h2 style="color: black; font-weight: bold;">IV.-Estilos UI/UX modernos</h2>
+-**IV.-Estilos UI/UX modernos**
 -Paleta de colores institucional (ej. negro, dorado, blanco).
 -Tipografía clara, profesional y accesible.
 -Botones llamativos y bien posicionados con efectos de hover.
 -Uso de iconografía y animaciones suaves para mejorar la experiencia de navegación.
 -Jerarquía visual con subtítulos, bloques de contenido y tarjetas informativas.
 
-<h2 style="color: black; font-weight: bold;">V.-Componentes reutilizables (UI reutilizable)</h2>
+-**V.-Componentes reutilizables (UI reutilizable)**
 -Menús, botones, formularios y tarjetas modulares reutilizables.
 -Estilos centralizados con variables CSS (por ejemplo: --gold-crayola, --weight-bold).
 -Separación clara entre estructura HTML, estilos CSS y comportamiento JS.
 
-<h2 style="color: black; font-weight: bold;">VI.-Accesibilidad (A11Y)</h2>
+-**VI.-Accesibilidad (A11Y)**
 -Texto con suficiente contraste de color.
 -Navegación por teclado y lectores de pantalla.
 -Atributos alt en imágenes y roles en componentes interactivos.
 
-<h2 style="color: black; font-weight: bold;">VII.-Integración con herramientas externas</h2>
+-**VII.-Integración con herramientas externas**
 -Botón de contacto vía WhatsApp.
 -Mapa de ubicación integrado (Google Maps o similar).
 -Formularios de contacto funcionales con validación.
 
-<h2 style="color: black; font-weight: bold;">VIII.-Seguridad y confianza</h2>
+-**VIII.-Seguridad y confianza**
 -licencia
 -Políticas de privacidad y términos de uso visibles.
 -Pie de página con enlaces legales y redes sociales.
 
-<h2 style="color: black; font-weight: bold;">Tecnologías Utilizadas</h2>
+-**Tecnologías Utilizadas**
 - **HTML**  
   - Estructura semántica del sitio
 
@@ -96,43 +96,43 @@ En <strong>Guardianes Seguros</strong>, nuestro propósito es proteger la integr
 
 
 
-<h2 style="color: black; font-weight: bold;">Estructura del proyecto</h2>
+-**Estructura del proyecto**
 [Ver archivo TXT](https://github.com/brenda19011/Desarrolladores.github.io/blob/main/Estructura%20del%20proyecto.txt)
 
 
 
 
-### Run Locally
+-**Run Locally**
 
 To run **Guardianes Seguros** locally, run this command on your git bash:
 
 
 * [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
 
-### Run Locally
+-**Run Locally**
 
 To run **Guardianes Seguros** locally, run this command on your git bash:
 
 Linux and macOS:
 
-```bash
+-**bash**
 sudo git clone https://github.com/brenda19011/Desarrolladores.github.io.git
 ```
 
-Windows:
+-**Windows**
 
 ```bash
 git clone https://github.com/brenda19011/Desarrolladores.github.io.git
 ```
 
-### Contact
+-**Contact**
 
 If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
 
-### License
+-**License**
 
 [MIT](https://choosealicense.com/licenses/mit/)
 
-### Archivo
+-**Archivo**
 
 [Ver archivo TXT](https://github.com/brenda19011/Desarrolladores.github.io/blob/main/deepseek_plaintext_20250709_1b3db5.txt)
